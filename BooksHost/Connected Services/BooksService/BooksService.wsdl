@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="BooksService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="BasicHttpsBinding_IBooksService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <sp:HttpsToken RequireClientCertificate="false" />
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="https://localhost:44301/BooksService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="https://localhost:44301/BooksService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/BooksWcf" />
+      <xsd:import schemaLocation="https://localhost:44301/BooksService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IBooksService_ListAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListAll" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListAll_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q1:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListAll_NoAvailableTodoFaultFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q2:NoAvailableTodoFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListById_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListById" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListById_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q3="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q3:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_ListById_TodoNotFoundFaultFault_FaultMessage">
+    <wsdl:part xmlns:q4="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q4:TodoNotFoundFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Insert_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insert" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Insert_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Insert_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q5="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q5:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Update_InputMessage">
+    <wsdl:part name="parameters" element="tns:Update" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Update_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Update_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q6="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q6:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Delete_InputMessage">
+    <wsdl:part name="parameters" element="tns:Delete" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Delete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Delete_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q7="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q7:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Login_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q8="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q8:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Logout_InputMessage">
+    <wsdl:part name="parameters" element="tns:Logout" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Logout_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LogoutResponse" />
+  </wsdl:message>
+  <wsdl:message name="IBooksService_Logout_LoginFailedFaultFault_FaultMessage">
+    <wsdl:part xmlns:q9="http://schemas.datacontract.org/2004/07/BooksWcf" name="detail" element="q9:LoginFailedFault" />
+  </wsdl:message>
+  <wsdl:portType name="IBooksService">
+    <wsdl:operation name="ListAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/ListAll" message="tns:IBooksService_ListAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/ListAllResponse" message="tns:IBooksService_ListAll_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/ListAllLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_ListAll_LoginFailedFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/ListAllNoAvailableTodoFaultFault" name="NoAvailableTodoFaultFault" message="tns:IBooksService_ListAll_NoAvailableTodoFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/ListById" message="tns:IBooksService_ListById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/ListByIdResponse" message="tns:IBooksService_ListById_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/ListByIdLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_ListById_LoginFailedFaultFault_FaultMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/ListByIdTodoNotFoundFaultFault" name="TodoNotFoundFaultFault" message="tns:IBooksService_ListById_TodoNotFoundFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insert">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/Insert" message="tns:IBooksService_Insert_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/InsertResponse" message="tns:IBooksService_Insert_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/InsertLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_Insert_LoginFailedFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/Update" message="tns:IBooksService_Update_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/UpdateResponse" message="tns:IBooksService_Update_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/UpdateLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_Update_LoginFailedFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/Delete" message="tns:IBooksService_Delete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/DeleteResponse" message="tns:IBooksService_Delete_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/DeleteLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_Delete_LoginFailedFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/Login" message="tns:IBooksService_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/LoginResponse" message="tns:IBooksService_Login_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/LoginLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_Login_LoginFailedFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Logout">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBooksService/Logout" message="tns:IBooksService_Logout_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBooksService/LogoutResponse" message="tns:IBooksService_Logout_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IBooksService/LogoutLoginFailedFaultFault" name="LoginFailedFaultFault" message="tns:IBooksService_Logout_LoginFailedFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IBooksService" type="tns:IBooksService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListAll">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/ListAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="NoAvailableTodoFaultFault">
+        <soap:fault use="literal" name="NoAvailableTodoFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="ListById">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/ListById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="TodoNotFoundFaultFault">
+        <soap:fault use="literal" name="TodoNotFoundFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Insert">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Insert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Update" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Delete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Logout">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Logout" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpsBinding_IBooksService" type="tns:IBooksService">
+    <wsp:PolicyReference URI="#BasicHttpsBinding_IBooksService_policy" />
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListAll">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/ListAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="NoAvailableTodoFaultFault">
+        <soap:fault use="literal" name="NoAvailableTodoFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="ListById">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/ListById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+      <wsdl:fault name="TodoNotFoundFaultFault">
+        <soap:fault use="literal" name="TodoNotFoundFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Insert">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Insert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Update" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Delete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Logout">
+      <soap:operation soapAction="http://tempuri.org/IBooksService/Logout" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="LoginFailedFaultFault">
+        <soap:fault use="literal" name="LoginFailedFaultFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BooksService">
+    <wsdl:port name="BasicHttpBinding_IBooksService" binding="tns:BasicHttpBinding_IBooksService">
+      <soap:address location="http://localhost:52529/BooksService.svc" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpsBinding_IBooksService" binding="tns:BasicHttpsBinding_IBooksService">
+      <soap:address location="https://localhost:44301/BooksService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

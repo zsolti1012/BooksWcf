@@ -1,0 +1,50 @@
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CoreCompileInputs.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksHost.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\RestSharp.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\bin\Debug\RestSharp.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csprojAssemblyReference.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CoreCompileInputs.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CopyComplete
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksHost\obj\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\obj\Debug\BooksHost.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\obj\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksHost\obj\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\obj\Debug\BooksHost.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\obj\Debug\BooksHost.csproj.CopyComplete
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\obj\Debug\BooksHost.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksHost\obj\Debug\BooksHost.pdb

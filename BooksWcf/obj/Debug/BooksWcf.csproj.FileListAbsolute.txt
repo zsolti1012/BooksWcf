@@ -1,0 +1,289 @@
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.rsp
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.rsp
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.AppContext.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Console.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Compression.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Claims.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.ValueTuple.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.rsp
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Antlr3.Runtime.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Newtonsoft.Json.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\System.Web.Optimization.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\WebGrease.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\System.Web.Optimization.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Newtonsoft.Json.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Antlr3.Runtime.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CoreCompileInputs.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\bin\RestSharp.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.dll.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\BooksWcf.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csc.rsp
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\csi.rsp
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.AppContext.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Console.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\vbc.rsp
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Antlr3.Runtime.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Newtonsoft.Json.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\RestSharp.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\System.Web.Optimization.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\WebGrease.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\RestSharp.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\System.Web.Optimization.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Newtonsoft.Json.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Antlr3.Runtime.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csprojAssemblyReference.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CoreCompileInputs.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CopyComplete
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csc.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csc.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csc.rsp
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csi.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csi.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\csi.rsp
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.AppContext.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Console.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.IO.Compression.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Claims.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.ValueTuple.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\vbc.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\vbc.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\vbc.rsp
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Antlr3.Runtime.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Newtonsoft.Json.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\System.Web.Optimization.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\WebGrease.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\RestSharp.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\System.Web.Optimization.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Newtonsoft.Json.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Antlr3.Runtime.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\obj\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksWcf\obj\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\obj\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\obj\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\BooksWcf.dll.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\BooksWcf.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\BooksWcf.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csc.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csc.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csc.rsp
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csi.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csi.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\csi.rsp
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.AppContext.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Console.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.IO.Compression.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.IO.Pipes.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Claims.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.ValueTuple.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\vbc.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\vbc.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\vbc.rsp
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Antlr3.Runtime.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Newtonsoft.Json.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\RestSharp.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\System.Web.Optimization.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\WebGrease.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\RestSharp.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\System.Web.Optimization.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Newtonsoft.Json.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Antlr3.Runtime.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksWcf\obj\Debug\BooksWcf.csproj.CopyComplete

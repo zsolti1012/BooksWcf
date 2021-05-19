@@ -1,0 +1,77 @@
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Login.resources
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Properties.Resources.resources
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CoreCompileInputs.cache
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.pdb
+C:\Users\O.Zsolt\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.MainWindow.resources
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.dll
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll.config
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.xml
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Login.resources
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.MainWindow.resources
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Properties.Resources.resources
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.GenerateResource.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CoreCompileInputs.cache
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CopyComplete
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.exe
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.pdb
+C:\Users\Sz. Ágnes\Desktop\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Login.resources
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.MainWindow.resources
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Properties.Resources.resources
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\Desktop\Suli\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksLogin.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.dll
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksHost.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\BooksWcf.dll.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\bin\Debug\RestSharp.xml
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Login.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.MainWindow.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.Properties.Resources.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.csproj.CopyComplete
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\BooksWcf\BooksLogin\BooksLogin\obj\Debug\BooksLogin.pdb
