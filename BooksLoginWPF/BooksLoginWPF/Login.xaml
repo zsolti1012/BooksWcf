@@ -1,0 +1,26 @@
+﻿<Window x:Class="BooksLoginWPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BooksLoginWPF"
+        mc:Ignorable="d"
+        Title="Login to Books" Height="450" Width="800" ResizeMode="NoResize" Closing="Window_Closing">
+    <Window.Background>
+        <ImageBrush ImageSource="_EPT2589.jpg"/>
+    </Window.Background>
+
+    <Grid VerticalAlignment="Bottom" Margin="35,80" Height="240">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Content="BEJELENTKEZÉS" VerticalAlignment="Top" Margin="236,10,230,0"  Foreground="Black" FontSize="35" TextOptions.TextHintingMode="Fixed" HorizontalContentAlignment="Center" Background="White" HorizontalAlignment="Center" Width="258"/>
+        <StackPanel VerticalAlignment="Center" Margin="15,76,15,36" Grid.ColumnSpan="2">
+            <TextBox Name="Username" Margin="0,10" HorizontalContentAlignment="Center"   FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+            <PasswordBox Name="Password" Margin="0,10" HorizontalContentAlignment="Center"   FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+        </StackPanel>
+        <Button VerticalAlignment="Bottom" Margin="290,0,284,33" Content="Bejelentkezés" FontSize="18" Click="Button_Click" Grid.RowSpan="2" HorizontalAlignment="Center" />
+    </Grid>
+</Window>
